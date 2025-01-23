@@ -16,7 +16,7 @@ My goal is to create seamless digital experiences that empower users and busines
 Feel free to reach out to me for collaborations, project ideas, or just to chat about web development!
 - Email: vangaarun19@gmail.com
 - LinkedIn: https://www.linkedin.com/in/arun-vanga-568871148/
-- Portfolio: [Portfolio URL]
+- Portfolio: []
 
 Thanks for visiting my profile! 😄
 
